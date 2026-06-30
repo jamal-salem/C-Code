@@ -128,7 +128,7 @@ int main(int argc, char** argv)
 ```
 
 
-Direct answer
+
 - This program reads lines from standard input and, for each line, counts how many times each letter a–z appears (case-insensitive). For every letter that appears at least once it prints the letter (in uppercase) followed by the count, separated by spaces. It repeats until a line whose first character is the lowercase 'q' is read.
 
 What the code does (walkthrough)
